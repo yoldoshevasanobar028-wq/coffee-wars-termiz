@@ -1,0 +1,6 @@
+{
+  "name": "Coffee Wars: Termiz",
+  "description": "Termiz shahrida kofe biznesini boshqarish bo'yicha interaktiv 12 oylik biznes strategiya va musobaqa o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
